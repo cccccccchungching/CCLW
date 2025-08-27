@@ -5,4 +5,4 @@ Feel free to leave any suggestion.
 
 <img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 22 44 40-portrait" src="https://github.com/user-attachments/assets/67fd075e-83d0-44d1-b5e3-1f98ba034671" />
 
-<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 22 44 40-portrait" src="https://github.com/user-attachments/assets/25f0772f-cfc0-480b-8ee4-b7f4d34a339f" />
+<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 22 31 08-portrait" src="https://github.com/user-attachments/assets/ea20dd15-bd09-4ae8-a00c-4598a83a8e3e" />
